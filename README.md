@@ -1,4 +1,4 @@
-# Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es André!1
+# Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es André!
 
 <div id="header" align="right"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBtenMwdGFjd214MWR6Z29sc2Jlb2dtdnE0eGlrbmdoNzBlY2o3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1Gl7sFoJssmTnX74BE/giphy.gif" width="200"/> </div>
 <!--
