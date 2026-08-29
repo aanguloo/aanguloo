@@ -8,7 +8,7 @@
 I am a student at **Pontificia Universidad Católica de Chile**, pursuing a **Major in Software Engineering**. Computing is what drives me; I love understanding how things work under the hood and building solutions that actually make a difference. Outside of that, I’m just a regular guy who loves to smile at life and enjoy the day-to-day with every activity I do.
 
 * 🤖 **Interests:** I am passionate about **Software Development** and how **Artificial Intelligence** is changing the rules of the game.
-* 🌱 **Learning:** SQL, PostgreSQL, and taking my first steps in **Machine Learning**.
+* 🌱 **Learning:** Ruby and Rails, and taking my first steps in **Cybersecurity**.
 * 🎮 **Hobbies:** Outside of my studies, you can find me gaming, hanging out with friends, or doing any activity that makes me enjoy my time.
 
 <br clear="right" />
